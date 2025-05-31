@@ -57,6 +57,8 @@ This repository contains an automated Selenium test suite built with C# and NUni
 4. Run the tests:
    ```bash
    dotnet test
+   # for more detailed logs use:
+   # dotnet test --logger:"console;verbosity=detailed" 
    ```
 ## Running Tests
 To run the tests, ensure you have the ChromeDriver set up and then execute the following command in your terminal:
