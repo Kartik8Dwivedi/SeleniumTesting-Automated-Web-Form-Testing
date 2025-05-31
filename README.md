@@ -16,6 +16,7 @@ This repository contains an automated Selenium test suite built with C# and NUni
 
     Root_Directory/
     ├── DummyFiles/
+    │   └── Resume.pdf # Sample file for upload testing
     ├── Public/
     │   └── test_run_screenshot.png
     ├── FormTests.cs
