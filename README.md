@@ -37,8 +37,8 @@ This repository contains an automated Selenium test suite built with C# and NUni
 
 1. Clone the repo:
    ```bash
-   git clone <repo-url>
-   cd SeleniumTest
+   git clone https://github.com/Kartik8Dwivedi/SeleniumTesting-Automated-Web-Form-Testing.git
+   cd SeleniumTesting-Automated-Web-Form-Testing
     ```
 
 2. Make the ChromeDriver executable by running:
