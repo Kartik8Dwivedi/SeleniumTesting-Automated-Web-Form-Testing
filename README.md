@@ -12,7 +12,7 @@ This repository contains an automated Selenium test suite built with C# and NUni
 - Uploads a file (Resume.pdf) using Selenium's file upload functionality.
 - Uses headless ChromeDriver for running tests.
 
-## Project Structure.
+## Project Structure
 
     Root_Directory/
     ├── DummyFiles/
